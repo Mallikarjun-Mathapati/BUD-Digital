@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/BUD-Digital/static/css/main.ef3aed0b.css",
+    "main.js": "/BUD-Digital/static/js/main.a09364d1.js",
+    "static/js/787.0c3f432a.chunk.js": "/BUD-Digital/static/js/787.0c3f432a.chunk.js",
+    "static/media/email.jpg": "/BUD-Digital/static/media/email.232555bc60e3879871e7.jpg",
+    "static/media/Group 1621.png": "/BUD-Digital/static/media/Group 1621.8930d34268f715a76075.png",
+    "static/media/Group 1627.png": "/BUD-Digital/static/media/Group 1627.541a702b7697b8bcf715.png",
+    "static/media/back.png": "/BUD-Digital/static/media/back.302de65daf47913dd66f.png",
+    "index.html": "/BUD-Digital/index.html",
+    "main.ef3aed0b.css.map": "/BUD-Digital/static/css/main.ef3aed0b.css.map",
+    "main.a09364d1.js.map": "/BUD-Digital/static/js/main.a09364d1.js.map",
+    "787.0c3f432a.chunk.js.map": "/BUD-Digital/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef3aed0b.css",
+    "static/js/main.a09364d1.js"
+  ]
+}
